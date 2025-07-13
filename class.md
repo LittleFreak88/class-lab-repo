@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Connie 
+- Certification: Meta Front End Development
 
 ## Instructions
 Please replace the placeholders with your details:
